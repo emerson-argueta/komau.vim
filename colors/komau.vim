@@ -23,12 +23,12 @@ let s:subtle_black    = {"gui": "#303030", "cterm": "236"}
 let s:light_gray      = {"gui": "#999999", "cterm": "246"}
 let s:lighter_gray    = {"gui": "#CCCCCC", "cterm": "252"}
 let s:lightest_gray   = {"gui": "#E5E5E5", "cterm": "254"}
-let s:yellow          = {"gui": "#FED442", "cterm": "221"}
-let s:pink            = {"gui": "#D73A49", "cterm": "167"}
-let s:green           = {"gui": "#22863A", "cterm": "29" }
-let s:red             = {"gui": "#B31D28", "cterm": "124"}
-let s:orange          = {"gui": "#E36209", "cterm": "166"}
-let s:blue            = {"gui": "#005CC5", "cterm": "26" }
+let s:yellow          = {"gui": "#D0D0D0", "cterm": "221"}
+let s:pink            = {"gui": "#6A6A6A", "cterm": "167"}
+let s:green           = {"gui": "#5F5F5F", "cterm": "29" }
+let s:red             = {"gui": "#4B4B4B", "cterm": "124"}
+let s:orange          = {"gui": "#7E7E7E", "cterm": "166"}
+let s:blue            = {"gui": "#4B4B4B", "cterm": "26" }
 
 let s:background = &background
 

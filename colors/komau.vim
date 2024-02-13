@@ -14,7 +14,7 @@ endif
 
 let g:colors_name='komau'
 
-let s:black           = {"gui": "#222222", "cterm": "235"}
+let s:black           = {"gui": "#272727", "cterm": "235"}
 let s:medium_gray     = {"gui": "#767676", "cterm": "243"}
 let s:white           = {"gui": "#E8E8E8", "cterm": "255"}
 let s:light_black     = {"gui": "#424242", "cterm": "238"}
